@@ -3,7 +3,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  {
   "functions": {
     "api/**/*.js": {
       "runtime": "@vercel/node@4.0.0"
